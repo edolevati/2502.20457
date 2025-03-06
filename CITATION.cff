@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'When resonances kick in: the cumulative effect of orbital resonances in extreme-mass-ratio inspirals'
+message: >-
+  Mathematica scripts used to produce the results presented
+  in 2502.20457
+type: software
+authors:
+  - orcid: 'https://orcid.org/0009-0002-5316-3762'
+    given-names: Edoardo
+    family-names: Levati
+    email: levae25@wfu.edu
+    affiliation: Wake Forest University
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2502.20457'
+repository-code: 'https://github.com/edolevati/2502.20457.git'
+keywords:
+  - EMRI
+  - resonance
+date-released: '2025-02-27'
